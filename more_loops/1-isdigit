@@ -1,0 +1,17 @@
+#include <stdlib.h>
+#include <stdio.h>
+
+/**
+* main - Entry point
+* Return: Always 1 and 0 Success
+*/
+int main(void)
+{
+int n;
+
+if (n = 0; n <= 9; n++)
+return (1);
+
+else
+return (0);
+}
